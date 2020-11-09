@@ -95,8 +95,8 @@ i.fab.fa-instagram{
 	border-bottom: none!important;
 }
 
-a:hover i.fas.fa-search,
-a:hover i.fab.fa-facebook-f,
-a:hover i.fab.fa-instagram{
+a:hover > i.fas.fa-search,
+a:hover > i.fab.fa-facebook-f,
+a:hover > i.fab.fa-instagram{
 	color: #1980d0!important;
 }
