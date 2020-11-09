@@ -88,8 +88,15 @@ i.fab.fa-instagram{
     color: #8b8b8b;
     font-size: 15px;
 }
+
 .search:hover a
 .facebook:hover a
 .instagram:hover a{
 	border-bottom: none!important;
+}
+
+a:hover > i.fas.fa-search,
+a:hover > i.fab.fa-facebook-f,
+a:hover > i.fab.fa-instagram{
+	color: #1980d0!important;
 }
